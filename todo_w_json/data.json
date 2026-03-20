@@ -4,23 +4,5 @@
     "description": "new task to test new features",
     "isCompleted": true,
     "date": "2026-03-18T19:56:06.6155907+03:00"
-  },
-  {
-    "id": "d821cfbd-9206-450b-8c07-3eae81c135c3",
-    "description": "To finish this project",
-    "isCompleted": true,
-    "date": "2026-03-18T20:13:30.3290065+03:00"
-  },
-  {
-    "id": "2a2d206e-d0ee-4044-b85b-6b6dc2314e44",
-    "description": "Watch demo!!",
-    "isCompleted": false,
-    "date": "2026-03-18T20:18:43.482541+03:00"
-  },
-  {
-    "id": "2d995bdd-b974-475e-b950-48f9491cc024",
-    "description": "make up another pet-project to add to my github",
-    "isCompleted": false,
-    "date": "2026-03-19T00:33:30.961343+03:00"
   }
 ]
