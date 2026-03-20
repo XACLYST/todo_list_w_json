@@ -1,0 +1,14 @@
+D:\CSprojects\todo_w_json\todo_w_json\bin\Debug\net8.0\todo_w_json.exe
+D:\CSprojects\todo_w_json\todo_w_json\bin\Debug\net8.0\todo_w_json.deps.json
+D:\CSprojects\todo_w_json\todo_w_json\bin\Debug\net8.0\todo_w_json.runtimeconfig.json
+D:\CSprojects\todo_w_json\todo_w_json\bin\Debug\net8.0\todo_w_json.dll
+D:\CSprojects\todo_w_json\todo_w_json\bin\Debug\net8.0\todo_w_json.pdb
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.AssemblyInfoInputs.cache
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.AssemblyInfo.cs
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.csproj.CoreCompileInputs.cache
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.dll
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\refint\todo_w_json.dll
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.pdb
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\todo_w_json.genruntimeconfig.cache
+D:\CSprojects\todo_w_json\todo_w_json\obj\Debug\net8.0\ref\todo_w_json.dll
